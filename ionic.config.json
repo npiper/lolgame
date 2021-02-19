@@ -1,7 +1,0 @@
-{
-  "name": "lol-game",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
